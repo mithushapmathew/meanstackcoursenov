@@ -1,0 +1,44 @@
+
+h1
+{
+color: red;
+}
+#one
+{
+color: rgb(82, 163, 134);
+}
+body{
+    /* background-color: rgb(149, 82, 163); */
+    background-image: url("ipl.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%,60%;
+}
+div
+{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    background-color: yellow;
+    width: 50%;
+    margin: auto;
+}
+div li{
+    margin-left: 150px;
+}
+div label{
+    margin-left: 170px;
+}
+#mi
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    background-color: rgb(82, 130, 163);
+}
+.team 
+{
+    border-style: solid;
+    border-color: rgb(37, 129, 235);
+    border-width: 5px;
+    background-color: rgb(235, 43, 30);
+}

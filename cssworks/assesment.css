@@ -1,0 +1,12 @@
+.one{
+    color: brown;
+}
+#second{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    color: green;
+}
+li{
+    color: red;
+}

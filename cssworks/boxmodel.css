@@ -1,0 +1,28 @@
+#top
+{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 50px;
+    padding-left: 215px;
+    background-color: rgb(248, 158, 74);
+    font-family: 'Goldman', cursive;
+}
+#bottom 
+{
+border-style: solid;
+border-color: rgb(27, 4, 4);
+border-width: 5px;
+width: 50%;
+margin-top: 450px;
+margin-left: 300px;
+padding-left: 215px;
+background-color: rgb(65, 208, 252);
+}
+#h1{
+    font-family: 'Goldman', cursive;
+font-family: 'PT Serif', serif;
+font-family: 'Russo One', sans-serif;
+}
